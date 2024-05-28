@@ -45,6 +45,8 @@ Press Send
 
 You will see 200 OK status and output will be the data you input above.
 
+Repeat steps above and input a second entry of dummy data to create a second owner.
+
 ### 2. create a new POST request to create a new Pet:
 
 Choose “POST” from the dropdown on the left, and enter localhost:3000/pets as the request URL
