@@ -64,3 +64,11 @@ navigate to the Body tab, choose raw, and select JSON from the dropdown on the r
 Press Send
 
 You will see 200 OK status and output will be the data you input above.
+
+```
+git status
+git add
+git commit
+```
+
+
