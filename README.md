@@ -39,7 +39,7 @@ navigate to the Body tab, choose raw, and select JSON from the dropdown on the r
 "name": "put a name here",
 "email": "put a email address here"
 }
-'''
+```
 
 Press Send
 
@@ -59,16 +59,12 @@ navigate to the Body tab, choose raw, and select JSON from the dropdown on the r
 "age": put an age here,
 "owner_id": put a number here (other than 1 or 2)
 }
-'''
+```
 
 Press Send
 
 You will see 200 OK status and output will be the data you input above.
 
-```
-git status
-git add
-git commit
-```
+
 
 
