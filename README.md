@@ -10,23 +10,7 @@ Open folder in Node
 
 Run this command to start server: rails server
 
-### 2. Use Postman to Test
-   
-Open Postman and create a new GET request
-
-Use this URL for the GET request: localhost:3000/owners/:id/pets
-
-Use this setting
-
-Under Params->Path Variable->id->value
-
-Use this id 1 (or 2)
-
-Press Send
-
-You will see 200 OK status and output will be the data based on the id you used above.
-
-## additional commands...
+## Create New Owners commands...
 
 ### 1. create a new POST request to create a new Owner:
 
@@ -67,6 +51,21 @@ Press Send
 
 You will see 200 OK status and output will be the data you input above.
 
+### 3. Use Postman to Test
+   
+Open Postman and create a new GET request
+
+Use this URL for the GET request: localhost:3000/owners/:id/pets
+
+Use this setting
+
+Under Params->Path Variable->id->value
+
+Use this id 1 (or 2)
+
+Press Send
+
+You will see 200 OK status and output will be the data based on the id you used above.
 
 
 
