@@ -35,9 +35,9 @@ Choose “POST” from the dropdown on the left, and enter localhost:3000/owners
 navigate to the Body tab, choose raw, and select JSON from the dropdown on the right. Add the following code to the request body:
 
 ```{
-```"name": "put a name here",
-```"email": "put a email address here"
-```}
+"name": "put a name here",
+"email": "put a email address here"
+}'''
 
 Press Send
 
@@ -50,12 +50,12 @@ Choose “POST” from the dropdown on the left, and enter localhost:3000/pets a
 navigate to the Body tab, choose raw, and select JSON from the dropdown on the right. Add the following code to the request body:
 
 ```{
-```"name": "put a name here",
-```"species": "put a species here",
-```"breed": "put a breed here",
-```"age": put an age here,
-```"owner_id": put a number here (other than 1 or 2)
-```}
+"name": "put a name here",
+"species": "put a species here",
+"breed": "put a breed here",
+"age": put an age here,
+"owner_id": put a number here (other than 1 or 2)
+}'''
 
 Press Send
 
