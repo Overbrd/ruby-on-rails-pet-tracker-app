@@ -51,6 +51,8 @@ Press Send
 
 You will see 200 OK status and output will be the data you input above.
 
+Repeat steps above and input a second entry of dummy data to create a second pet.
+
 ### 3. Use Postman to Test
    
 Open Postman and create a new GET request
@@ -61,7 +63,7 @@ Use this setting
 
 Under Params->Path Variable->id->value
 
-Use this id 1 (or 2)
+Use this id 1 (then 2)
 
 Press Send
 
